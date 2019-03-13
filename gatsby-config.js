@@ -25,7 +25,7 @@ module.exports = {
     {
       resolve: `gatsby-source-instagram-all`,
       options: {
-        access_token: "11298245131.1677ed0.ab64e2fc3d5b4b95842e717515e6f9d6"
+        access_token: "11462885233.1677ed0.f825c399d7b9430e98bb43cf0a8a8bfc"
       }
     },
     `gatsby-transformer-sharp`,
